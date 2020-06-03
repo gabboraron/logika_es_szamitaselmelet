@@ -7,6 +7,12 @@
 
 ### EA7 Turing gépek | 1-szalagos - k-szalagos  
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA07SZ4%20(1).pdf
+> Turing gépek bővebben a [Gyires Béla Tananyagtárból](https://gyires.inf.unideb.hu/): https://gyires.inf.unideb.hu/GyBITT/25/ch04.html
+> 
+> Turing gépo lejátszó programok online: 
+> - https://turingmachinesimulator.com/
+> - http://morphett.info/turing/turing.html
+> - https://turingmachine.io/
 ### EA8 NTG | Látló | számosság | Cantor tétel | R | RE  
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA08SZ4.pdf
 ### EA9 Rice | POST | ítéletkalkulus | logika | elsőrendű logika
