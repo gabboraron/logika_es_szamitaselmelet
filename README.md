@@ -7,9 +7,9 @@
 
 ### EA7 Turing gépek | 1-szalagos - k-szalagos  
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA07SZ4%20(1).pdf
-> Turing gépek bővebben a [Gyires Béla Tananyagtárból](https://gyires.inf.unideb.hu/): https://gyires.inf.unideb.hu/GyBITT/25/ch04.html
+> Turing gépek bővebben a [Gyires Béla Tananyagtárból](https://gyires.inf.unideb.hu/): https://gyires.inf.unideb.hu/GyBITT/25/ch04.html vagy [összefoglalva pdf formában](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/2011-0103_25_szamitaselmelet.pdf)
 > 
-> Turing gépo lejátszó programok online: 
+> Turing gép lejátszó programok online: 
 > - https://turingmachinesimulator.com/
 > - http://morphett.info/turing/turing.html
 > - https://turingmachine.io/
