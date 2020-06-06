@@ -1,7 +1,7 @@
 # Logika és számításelmélet
 - [Tóth Gabriella - logika előadás sorozat](https://people.inf.elte.hu/kistoth/oktatas/2018-2019-2/logszamea/index.html)
-- [Tichler Krisztián - logika gyak](https://web.cs.elte.hu/~tichlerk/index3.html)
-- [Tichler Krisztián - logika EA](https://web.cs.elte.hu/~tichlerk/index6.html)
+- [Tichler Krisztián - logika és számításelmélet gyak](https://web.cs.elte.hu/~tichlerk/index3.html)
+- [Tichler Krisztián - logika és számításelmélet EA](https://web.cs.elte.hu/~tichlerk/index6.html)
 
 ## Diasor:
 
@@ -17,12 +17,14 @@ fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA07S
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA08SZ4.pdf
 ### EA9 Rice | POST | ítéletkalkulus | logika | elsőrendű logika
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA09SZ4.pdf
+> - elsőrendű logika: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/term-formula-4.pdf
+> - [első rendű logika Tichler Krisztián féle összefoglaló](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/elsorendu_logika.pdf)
 > - [Gyires Béla Tananyagtárból](https://gyires.inf.unideb.hu/): https://gyires.inf.unideb.hu/KMITT/a02/ch05.html
 >   - [szintaxis](https://gyires.inf.unideb.hu/KMITT/a02/ch05.html#idp150668448)
 >   - [termhelyettesítés](https://gyires.inf.unideb.hu/KMITT/a02/ch05.html#idp152389216)
-> - [első rendű logika Tichler Krisztián féle összefoglaló](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/elsorendu_logika.pdf)
-> - [LOGIKA ÉS SZÁMÍTÁSELMÉLET KIDOLGOZOTT JEGYZET 2013-2014 ELTE IK - Butkay Gábor és Gyenes József](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/Logika%20%C3%A9s%20Sz%C3%A1m%C3%ADt%C3%A1selm%C3%A9let.pdf)
+> [Tóth Gabriella féle](http://koszegijudit.web.elte.hu/logika_bsc/fifi.pdf): [0.rendű logika](https://drive.google.com/file/d/1W6m3pdhZHJ9_mifVWahFIyoZOcp_qjtA/view), [1.rendű logika](https://drive.google.com/file/d/1l8-lB5FVb3LnJ5FZ25Hgroyz_3R8qI4P/view)
 > - Termek és atomi mondatok, predikátum szimbólumok: http://project.mit.bme.hu/mi_almanach/books/aima/ch08s02
+> - [logika és számításelmélet kidolgozott jegyzet 2013-2014 ELTE IK - Butkay Gábor és Gyenes József](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/Logika%20%C3%A9s%20Sz%C3%A1m%C3%ADt%C3%A1selm%C3%A9let.pdf)
 ### EA10 bonyolultságelmélet | P | NP | C teljesség | Cook-Levin | kSAT | 3SAT | HORNSAT
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA10SZ4.pdf
 ### EA11 3 színezhetőség | 2 színezhetőség | Klikk | lefogó ponthalmaz | független ponthalmaz | Hamilton út | Hamilton kör | utazóügynök
