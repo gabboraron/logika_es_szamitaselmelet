@@ -17,6 +17,9 @@ fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA07S
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA08SZ4.pdf
 ### EA9 Rice | POST | ítéletkalkulus | logika | elsőrendű logika
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA09SZ4.pdf
+> Termek és atomi mondatok, predikátum szimbólumok: http://project.mit.bme.hu/mi_almanach/books/aima/ch08s02
+>
+> https://gyires.inf.unideb.hu/KMITT/a02/ch05.html
 ### EA10 bonyolultságelmélet | P | NP | C teljesség | Cook-Levin | kSAT | 3SAT | HORNSAT
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA10SZ4.pdf
 ### EA11 3 színezhetőség | 2 színezhetőség | Klikk | lefogó ponthalmaz | független ponthalmaz | Hamilton út | Hamilton kör | utazóügynök
