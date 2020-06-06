@@ -17,9 +17,12 @@ fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA07S
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA08SZ4.pdf
 ### EA9 Rice | POST | ítéletkalkulus | logika | elsőrendű logika
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA09SZ4.pdf
-> Termek és atomi mondatok, predikátum szimbólumok: http://project.mit.bme.hu/mi_almanach/books/aima/ch08s02
->
-> https://gyires.inf.unideb.hu/KMITT/a02/ch05.html
+> - [Gyires Béla Tananyagtárból](https://gyires.inf.unideb.hu/): https://gyires.inf.unideb.hu/KMITT/a02/ch05.html
+>   - [szintaxis](https://gyires.inf.unideb.hu/KMITT/a02/ch05.html#idp150668448)
+>   - [termhelyettesítés](https://gyires.inf.unideb.hu/KMITT/a02/ch05.html#idp152389216)
+> - [első rendű logika Tichler Krisztián féle összefoglaló](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/elsorendu_logika.pdf)
+> - [LOGIKA ÉS SZÁMÍTÁSELMÉLET KIDOLGOZOTT JEGYZET 2013-2014 ELTE IK - Butkay Gábor és Gyenes József](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/Logika%20%C3%A9s%20Sz%C3%A1m%C3%ADt%C3%A1selm%C3%A9let.pdf)
+> - Termek és atomi mondatok, predikátum szimbólumok: http://project.mit.bme.hu/mi_almanach/books/aima/ch08s02
 ### EA10 bonyolultságelmélet | P | NP | C teljesség | Cook-Levin | kSAT | 3SAT | HORNSAT
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA10SZ4.pdf
 ### EA11 3 színezhetőség | 2 színezhetőség | Klikk | lefogó ponthalmaz | független ponthalmaz | Hamilton út | Hamilton kör | utazóügynök
