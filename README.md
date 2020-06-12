@@ -3,8 +3,8 @@
 - [Tichler Krisztián - logika és számításelmélet gyak](https://web.cs.elte.hu/~tichlerk/index3.html)
 - [Tichler Krisztián - logika és számításelmélet EA](https://web.cs.elte.hu/~tichlerk/index6.html)
 
-## Diasor:
-
+## Diasor és annak kiegészítései:
+> gyak anyag összefűzve a diasorhoz, Tichler féle: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/tichler%20f%C3%A9le%20jegyzetek%20egyben.pdf
 ### EA7 Turing gépek | 1-szalagos - k-szalagos  
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA07SZ4%20(1).pdf
 > Turing gépek bővebben a [Gyires Béla Tananyagtárból](https://gyires.inf.unideb.hu/): https://gyires.inf.unideb.hu/GyBITT/25/ch04.html vagy [összefoglalva pdf formában](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/2011-0103_25_szamitaselmelet.pdf)
@@ -32,13 +32,22 @@ fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA09S
 > - [logika és számításelmélet kidolgozott jegyzet 2013-2014 ELTE IK - Butkay Gábor és Gyenes József](https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/Logika%20%C3%A9s%20Sz%C3%A1m%C3%ADt%C3%A1selm%C3%A9let.pdf)
 ### EA10 bonyolultságelmélet | P | NP | C teljesség | Cook-Levin | kSAT | 3SAT | HORNSAT
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA10SZ4.pdf
-> NP teljesség röviden: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/03npcompleteness.pdf
+> Közérthető bevezetés a témába: http://www.termeszetvilaga.hu/kulonsz/k002/algoritmus.html
+> 
+> A *P, NP, NP nehéz, NP teljesség*ről egy jó, rövid összefoglaló: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/P-NP-NPC.pdf 
 >
+> NP teljes problémák, bevezetés, alapok, [BME](http://www.cs.bme.hu/~kiskat/) stílusban: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/npcompl-2019.pdf
+>
+> NP teljesség röviden: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/03npcompleteness.pdf
 > 
 ### EA11 3 színezhetőség | 2 színezhetőség | Klikk | lefogó ponthalmaz | független ponthalmaz | Hamilton út | Hamilton kör | utazóügynök
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA11SZ4.pdf
+> *ezek a korábbiak kiterjesztései, a fentiek megértése után ez gyerekjáték, csak sajátos esetek*
+>
+> Tichler féle rövidített verzió: https://web.cs.elte.hu/~tichlerk/logika/h/h5.pdf
+>
 ### EA12 NP | cOC | coNP | offline Turing gép | tárígény | tárbonyolultság | ELÉR | Savitch | NL | L | Hierarchia tétel | R
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/EA12SZ4.pdf
-
+> angol összefoglaló: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/notes25.pdf
 ## Egybefűzve:
 fájl: https://github.com/gabboraron/logika_es_szamitaselmelet/blob/master/logika_es_szamelm-egyben-Tichler_fele.pdf
